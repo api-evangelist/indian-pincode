@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://indianpincode.com/
 common:
+  - type: DomainSecurity
+    url: security/indian-pincode-domain-security.yml
   - type: Website
     url: https://indianpincode.com/
   - type: PublicAPIsListing
