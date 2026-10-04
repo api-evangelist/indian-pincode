@@ -39,7 +39,6 @@ apis:
   - name: Indian Pincode
     description: "Free India PIN code lookup with GPS coordinates, 165k+ post offices, state & district data"
     humanURL: https://indianpincode.com/
-    baseURL: https://indianpincode.com/
     tags:
       - Government
     properties:
